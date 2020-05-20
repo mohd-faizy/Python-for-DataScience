@@ -1,4 +1,4 @@
-# My_Python_for_DataScience
+# Python for DataScience
 “Data science” is just about as broad of a term as they come. It may be easiest to describe what it is by listing its more concrete components:
 
 ## Data exploration & analysis.
